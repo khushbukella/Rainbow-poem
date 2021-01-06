@@ -5,6 +5,4 @@ Purple
 Yellow
 greeen 
 pink
-Pony
-OKOK
-ABCDEFGHIJKLMNOP
+
